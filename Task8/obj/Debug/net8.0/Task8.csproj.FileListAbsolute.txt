@@ -1,0 +1,5 @@
+D:\C#\Exam\Ekzamin2\Task8\obj\Debug\net8.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exam\Ekzamin2\Task8\obj\Debug\net8.0\Task8.AssemblyInfoInputs.cache
+D:\C#\Exam\Ekzamin2\Task8\obj\Debug\net8.0\Task8.AssemblyInfo.cs
+D:\C#\Exam\Ekzamin2\Task8\obj\Debug\net8.0\Task8.csproj.CoreCompileInputs.cache
+D:\C#\Exam\Ekzamin2\Task8\obj\Debug\net8.0\Task8.sourcelink.json
